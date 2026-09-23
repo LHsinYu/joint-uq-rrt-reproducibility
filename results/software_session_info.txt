@@ -1,0 +1,16 @@
+Release test environment (2026-09-23)
+
+R version 4.6.1 (2026-06-24)
+Platform: aarch64-apple-darwin23
+Operating system: macOS Tahoe 26.6.2
+
+R packages:
+- MASS 7.3-65
+- foreign 0.8-91
+- parallel 4.6.1
+
+Python:
+- Python 3.9.6
+- Standard library only for scripts/summarize_reviewer_simulations.py
+
+The simulation output records the random-number seed and run settings for each scenario.

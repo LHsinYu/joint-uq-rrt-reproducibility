@@ -1,0 +1,13 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+data/
+Greenberg_EM_results/
+qq_npo_results/
+outputs/
+*.rds
+checkpoint*.rds
+*.sav
+*.csv~
+__pycache__/
